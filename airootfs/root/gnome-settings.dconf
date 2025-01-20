@@ -1,0 +1,180 @@
+[Console]
+font-scale=1.4000000000000004
+last-window-maximised=false
+last-window-size=(1386, 840)
+
+[Snapshot]
+is-maximized=false
+window-height=640
+window-width=800
+
+[TextEditor]
+last-save-directory='file:///home/johnathan'
+
+[Totem]
+active-plugins=['save-file', 'open-directory', 'apple-trailers', 'variable-rate', 'autoload-subtitles', 'recent', 'rotation', 'screenshot', 'skipto', 'mpris', 'vimeo', 'screensaver', 'movie-properties']
+subtitle-encoding='UTF-8'
+
+[boxes]
+first-run=false
+view='icon-view'
+window-maximized=false
+window-position=[26, 23]
+window-size=[1440, 925]
+
+[control-center]
+last-panel='sound'
+window-state=(980, 640, false)
+
+[desktop/app-folders]
+folder-children=['Utilities', 'YaST', 'Pardus']
+
+[desktop/app-folders/folders/Pardus]
+categories=['X-Pardus-Apps']
+name='X-Pardus-Apps.directory'
+translate=true
+
+[desktop/app-folders/folders/Utilities]
+apps=['org.freedesktop.GnomeAbrt.desktop', 'nm-connection-editor.desktop', 'org.gnome.baobab.desktop', 'org.gnome.Connections.desktop', 'org.gnome.DejaDup.desktop', 'org.gnome.DiskUtility.desktop', 'org.gnome.Evince.desktop', 'org.gnome.FileRoller.desktop', 'org.gnome.font-viewer.desktop', 'org.gnome.Loupe.desktop', 'org.gnome.seahorse.Application.desktop', 'org.gnome.tweaks.desktop', 'org.gnome.Usage.desktop']
+categories=['X-GNOME-Utilities']
+excluded-apps=['org.gnome.Console.desktop']
+name='X-GNOME-Utilities.directory'
+translate=true
+
+[desktop/app-folders/folders/YaST]
+categories=['X-SuSE-YaST']
+name='suse-yast.directory'
+translate=true
+
+[desktop/background]
+color-shading-type='solid'
+picture-options='zoom'
+picture-uri='file:///usr/share/backgrounds/gnome/lcd-rainbow-l.jxl'
+picture-uri-dark='file:///usr/share/backgrounds/gnome/lcd-rainbow-d.jxl'
+primary-color='#f9f06b'
+secondary-color='#c64600'
+
+[desktop/input-sources]
+sources=[('xkb', 'us')]
+xkb-options=@as []
+
+[desktop/interface]
+accent-color='red'
+color-scheme='prefer-dark'
+
+[desktop/notifications]
+application-children=['vesktop', 'org-gnome-console', 'brave-browser', 'org-gnome-settings', 'org-gnome-boxes', 'gnome-power-panel', 'org-qbittorrent-qbittorrent', 'gimp', 'com-tutanota-tutanota', 'org-gnome-texteditor']
+show-banners=false
+
+[desktop/notifications/application/brave-browser]
+application-id='brave-browser.desktop'
+
+[desktop/notifications/application/com-tutanota-tutanota]
+application-id='com.tutanota.Tutanota.desktop'
+
+[desktop/notifications/application/gimp]
+application-id='gimp.desktop'
+
+[desktop/notifications/application/gnome-power-panel]
+application-id='gnome-power-panel.desktop'
+
+[desktop/notifications/application/org-gnome-boxes]
+application-id='org.gnome.Boxes.desktop'
+
+[desktop/notifications/application/org-gnome-console]
+application-id='org.gnome.Console.desktop'
+
+[desktop/notifications/application/org-gnome-settings]
+application-id='org.gnome.Settings.desktop'
+
+[desktop/notifications/application/org-gnome-texteditor]
+application-id='org.gnome.TextEditor.desktop'
+
+[desktop/notifications/application/org-qbittorrent-qbittorrent]
+application-id='org.qbittorrent.qBittorrent.desktop'
+
+[desktop/notifications/application/vesktop]
+application-id='vesktop.desktop'
+
+[desktop/screensaver]
+color-shading-type='solid'
+picture-options='zoom'
+picture-uri='file:///usr/share/backgrounds/gnome/lcd-rainbow-l.jxl'
+primary-color='#f9f06b'
+secondary-color='#c64600'
+
+[desktop/wm/preferences]
+button-layout='appmenu:minimize,maximize,close'
+
+[epiphany]
+ask-for-default=false
+
+[epiphany/state]
+is-maximized=false
+window-size=(1024, 768)
+
+[evolution-data-server]
+migrated=true
+
+[file-roller/listing]
+list-mode='as-folder'
+name-column-width=65
+show-path=false
+sort-method='name'
+sort-type='ascending'
+
+[file-roller/ui]
+sidebar-width=200
+window-height=480
+window-width=600
+
+[gnome-system-monitor]
+cpu-colors=[(uint32 0, '#e01b24'), (1, '#ff7800'), (2, '#f6d32d'), (3, '#33d17a'), (4, '#26a269'), (5, '#62a0ea'), (6, '#1c71d8'), (7, '#613583'), (8, '#9141ac'), (9, '#c061cb'), (10, '#ffbe6f'), (11, '#f9f06b'), (12, '#8ff0a4'), (13, '#2ec27e'), (14, '#1a5fb4'), (15, '#c061cb'), (16, '#cab47999f332'), (17, '#7999f332a738'), (18, '#f33283bd7999'), (19, '#799992f0f332'), (20, '#b66bf3327999'), (21, '#f3327999d9e6'), (22, '#7999f332e902'), (23, '#f332c5867999'), (24, '#a20b7999f332'), (25, '#7999f3327e90'), (26, '#f3327999981d'), (27, '#7999bb98f332'), (28, '#df14f3327999'), (29, '#e3d47999f332'), (30, '#7999f332c059'), (31, '#f3329cde7999'), (32, '#799979cff332'), (33, '#9d4af3327999'), (34, '#f3327999c0c6'), (35, '#7999e441f332'), (36, '#f332dea77999'), (37, '#bb2c7999f332'), (38, '#7999f33297b1'), (39, '#f33279997efc'), (40, '#7999a277f332'), (41, '#c5f3f3327999'), (42, '#f3327999e96e'), (43, '#7999f332d97a'), (44, '#f332b5ff7999'), (45, '#92837999f332'), (46, '#8429f3327999'), (47, '#f3327999a7a5')]
+current-tab='processes'
+show-dependencies=false
+show-whose-processes='user'
+
+[gnome-system-monitor/proctree]
+col-26-visible=false
+col-26-width=0
+
+[nautilus/preferences]
+default-folder-viewer='icon-view'
+migrated-gtk-settings=true
+search-filter-time-type='last_modified'
+
+[nautilus/window-state]
+initial-size=(1233, 750)
+initial-size-file-chooser=(890, 550)
+
+[portal/filechooser/brave-browser]
+last-folder-path='/home/johnathan/Downloads'
+
+[portal/filechooser/microsoft-edge]
+last-folder-path='/home/johnathan/Documents'
+
+[portal/filechooser/theia-ide-electron-app]
+last-folder-path='/home/johnathan/drives/Projects/Sprunglesonthehub.github.io/Docs/Arch'
+
+[settings-daemon/plugins/color]
+night-light-schedule-automatic=false
+
+[shell]
+app-picker-layout=[{'org.gnome.Contacts.desktop': <{'position': <0>}>, 'org.gnome.Weather.desktop': <{'position': <1>}>, 'org.gnome.clocks.desktop': <{'position': <2>}>, 'org.gnome.Maps.desktop': <{'position': <3>}>, 'bssh.desktop': <{'position': <4>}>, 'bvnc.desktop': <{'position': <5>}>, 'org.gnome.Totem.desktop': <{'position': <6>}>, 'org.gnome.Calculator.desktop': <{'position': <7>}>, 'avahi-discover.desktop': <{'position': <8>}>, 'simple-scan.desktop': <{'position': <9>}>, 'org.gnome.Settings.desktop': <{'position': <10>}>, 'org.gnome.SystemMonitor.desktop': <{'position': <11>}>, 'org.gnome.Snapshot.desktop': <{'position': <12>}>, 'Utilities': <{'position': <13>}>, 'org.gnome.Extensions.desktop': <{'position': <14>}>, 'yelp.desktop': <{'position': <15>}>, 'lftp.desktop': <{'position': <16>}>, 'org.freedesktop.MalcontentControl.desktop': <{'position': <17>}>, 'qv4l2.desktop': <{'position': <18>}>, 'qvidcap.desktop': <{'position': <19>}>, 'stoken-gui.desktop': <{'position': <20>}>, 'stoken-gui-small.desktop': <{'position': <21>}>}, {'org.gnome.Tour.desktop': <{'position': <0>}>, 'vim.desktop': <{'position': <1>}>, 'org.qbittorrent.qBittorrent.desktop': <{'position': <2>}>, 'xarchiver.desktop': <{'position': <3>}>, 'org.gnome.Epiphany.desktop': <{'position': <4>}>, 'nemo.desktop': <{'position': <5>}>, 'electron33.desktop': <{'position': <6>}>, 'org.gnome.Boxes.desktop': <{'position': <7>}>, 'cmake-gui.desktop': <{'position': <8>}>, 'transmission-gtk.desktop': <{'position': <9>}>, 'gbm.desktop': <{'position': <10>}>, 'gufw.desktop': <{'position': <11>}>}]
+favorite-apps=['org.gnome.Console.desktop', 'zen-beta.desktop', 'microsoft-edge.desktop', 'vesktop.desktop', 'network.loki.Session.desktop', 'riseup-vpn.desktop', 'docker-desktop.desktop', 'gimp.desktop', 'gitfiend.desktop', 'WebApp-Ente9654.desktop', 'theia-ide-electron-app.desktop', 'org.js.nuclear.Nuclear.desktop', 'org.gnome.Totem.desktop', 'vlc.desktop', 'org.kde.kdenlive.desktop', 'com.obsproject.Studio.desktop', 'timeshift-gtk.desktop', 'webapp-manager.desktop', 'org.gnome.Calendar.desktop', 'org.gnome.Music.desktop', 'org.gnome.Nautilus.desktop', 'org.gnome.Software.desktop', 'org.gnome.TextEditor.desktop', 'org.manjaro.pamac.manager.desktop']
+welcome-dialog-last-shown-version='47.2'
+
+[shell/keybindings]
+toggle-application-view=['Insert']
+toggle-message-tray=@as []
+
+[shell/world-clocks]
+locations=@av []
+
+[software]
+check-timestamp=int64 1737131769
+first-run=false
+flatpak-purge-timestamp=int64 1737085834
+
+[tweaks]
+show-extensions-notice=false
