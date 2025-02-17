@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="AcreetionOS GNOME T2"
+iso_name="AcreetionOS-GNOME-T2"
 iso_label="acreetionOS_gnome_t2_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
-iso_publisher="Acreetion OS"
-iso_application="Acreetion OS GNOME T2 Install Media"
-iso_version="1.0"
+iso_publisher="AcreetionOS"
+iso_application="AcreetionOS GNOME T2 Install Media"
+iso_version=0.0.11"
 install_dir="arch"
 buildmodes=('iso')
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito'
